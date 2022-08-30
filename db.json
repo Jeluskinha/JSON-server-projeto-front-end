@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "jean@gmail.com",
+      "id": "1",
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC"
+    }
+  ],
+  "planets": [
+    {
+      "id": "9",
+      "name": "Plutão",
+      "resume": "",
+      "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/pluto.svg",
+      "searchTags": ["planeta", "plutao"],
+      "features": {
+        "orbitalPeriod": ["90.613,31 dias", " 248,09 anos"],
+        "orbitalSpeed": "4,66 km/s",
+        "rotationDuration": "6dias 9h17min",
+        "radius": "1.160 km",
+        "Diameter": "2.376 km",
+        "sunDistance": "5.913.520.000 km",
+        "satellites": {
+          "number": 5,
+          "names": ["Caronte", "Nix", "Hidra", "Cérbero", "Estige"]
+        },
+        "temperature": ""
+      },
+      "geography": ""
+    }
+  ]
+}
