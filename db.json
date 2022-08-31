@@ -2,8 +2,39 @@
   "users": [
     {
       "email": "jean@gmail.com",
-      "id": "1",
-      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC"
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "nickName": "Jeluskinha",
+      "id": "1"
+    },
+    {
+      "email": "bruna.dall@hotmail.com",
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "nickName": "Dalla",
+      "id": "2"
+    },
+    {
+      "email": "bryannarlok@gmail.com",
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "nickName": "Bryan",
+      "id": "3"
+    },
+    {
+      "email": "larissa.stch@gmail.com",
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "nickName": "larissa.stch",
+      "id": "4"
+    },
+    {
+      "email": "sarahvenske@gmail.com",
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "nickName": "sarahv",
+      "id": "5"
+    },
+    {
+      "email": "nathyalbanski31@gmail.com",
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "nickName": "astronathy",
+      "id": "6"
     }
   ],
   "planets": [
@@ -12,7 +43,7 @@
       "name": "Sol",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/sun.svg",
+      "image": "https://lh3.googleusercontent.com/0ranuJEjyMUaoyFhid_mPZDfqdlKvU4V9-3ITd1u-XCnII2P26XzOtPQYGeH52Z_JHwqvnGe6q-Iiln1_6I9UCHoXsmQgWvmzCUCy8qHF3dWtiXkWYpmIxBg5BVDdh-L9lYI-v3S39oBs0bhPlN5btVIBLp_OBbB-fz6n-TLv_NJ7diwO5nc1akKqVgoIJwDv2kvUvMvrRznEZVVCohKjBoIppEnSnnYCO0z271vID9YTWxeOvBQtHlq2XAbBuvPrBw_JOqSAdEc1UTgxnsEVNz2N1FEBgrmzOwAmcTMTwliwy_4YO_Z6DcQSMj18eABMG2Zelt02_VILvdme8Z-O-qtBPTKxXkeHbuoPtwrkIax1mzmeShU4ls_eT2pjFebckP9aRHYYvDNAjz0kfEwboTUcrBv6XNP2H2PR0dLYScVVkF3yDHtVYwf-KTcFsP3ciZyrrB4b14ivPSJGPiOiAMtl_4dhbw2Cka9z6tXQBN2OHfMjfC12gASs2hllDk8qNPFbNr1sqlYvsRIFC48HwJEn2UmLaqler5S1S4vd_2ghKmPZjL916Q29NrHkPCTtIr7fBTcwAhSmAjNfSFCFuMl1GOO0Wwp_ccUf5foAVcrWtYD03sFrDRtdjzdg-M-hjNl02I67FWcVZ8ct99w5zpCNqbHAQ2VmNTvnNsFRSXVbZ7JyJ3nCj-IEzc4FLm0i7pyzHB8ddIqVJD7F2uw3DSzTtSZcCpLg08B9NlL2Nbi4hzn6zV5UsxzVcE=s943-no?authuser=0",
       "searchTags": ["planeta", "sol", "estrela central"],
       "features": {
         "orbitalPeriod": ["0 dias", "0 anos"],
@@ -34,7 +65,7 @@
       "name": "Mercúrio",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/mercury.svg",
+      "image": "https://lh3.googleusercontent.com/SkdPohFBkQa7ND1kHAs2uBqxTOMpygNn6BrlrGiqDNbcaUjj549X45yy52TW9RDwwAnEDAAB_oK7wop8vOs_izMZ0aQ3h8isEigYT-Nr-w8Pk5Cu47kVYYXnmuQRhVThLBwwPTThP_yPpzeODbnNFj24JPVnWHXYZ9KPxr6vbKM1GApFN8VR_1xlKie_0LPI0Rxzy30QRbVJMuDXmBmZD68ghzH2KSWbiC-xvlshelegDTD42dmq5oZE-Ve-cOFrMA81-D6VJ4x30Eip7uPDehtUtAsvisAOIApmy27yjpEaontP9g3IXDD14bTE_iNIsmTZny3o9TWkWz1WHTtRHTVa1g5t_R3ir91ZOZrFNfkAFFJPueUZscLmae4ipxvKwgIMrBMOUdE-8PocBerpKHRNZk56D-L3y2OladccjazvCDtdURwJMCAhjOLHsL-TSyScHM44BSCW2tO9nWb7xpHSDvsJMFL6Jg8RzIFOxa2CgAzJxjHYERhk6qktAEUCCxM7Z1ge8-6ZH3bIKeu0PD2-Gel924vWqe9ykJ6vWfCRz8Au4MXLyYdSaSxotuv43GNPiq0YMmEQW-319nS_PS13jMTpSXNWX-HM_snB4BYyedlfVlzWZgb45bwb_NwIEJ86yiqwXqquVlMfYG29V59PNoFj8Z3Q7MOLhPvAkOr5WuRiHEd9eFG6h1nsOiQrcGgfGsG1dkU25p31BI8WtfIT5mBXQw7h8ChblUgMIRhOawzyZB13AhYbELE=w225-h224-no?authuser=0",
       "searchTags": ["planeta", "mercurio", "menor planeta"],
       "features": {
         "orbitalPeriod": ["87,96 dias", "0,24 anos"],
@@ -53,7 +84,7 @@
       "name": "Vênus",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/venus.svg",
+      "image": "https://lh3.googleusercontent.com/BkX20CaT59jpnCndJuswWJD3t7ecZyXtK-b1vwnF8zvQ-nJQkKQ5K41XswnrfvNWB5XPF2uOx7ApkkGrnfyjKigYhRZT0rwMrsS3JgCppQLzJf0xwP3m3CHuOr5Uo0u8U210UK7a3MlCEkynNiASfTB_nd_-8ZqoaN4PgrePQM2DEjUgk20wTtp6K5A7v5DGxGRUdtlBsZOSR46srohlbNwxfVVC350qxMUMigMVAEudSxnfxMGmxQMqJTVCHhcZQNyYDFBzRjtZ1G8GZB6tiQ5ldFYT0-6fxWDDIh-IfCyteqiLlcwBqteNBlMnjZDxD0qszgKN0grWbPrk6rPFf0CTnDyqo_l4VFVMlW3cIw588Lwp-no6d857ygAQ5X-ltEheJWTXSzGcZy0ZvyTO9ZBsuOkdcaBos66KXCkSCmmHYqrG0Cs4refH9nBBXfd1CLWY6rFyCrCePy2MRoUr24nNBz1G62K54y--6r8X7Iy2FTSytwKN2zHbXT5DRCgjfh9Y4Tb8ASvg2HAO2XaIDO1sQL-n6csOG5vf5K_EELZRPXitBxENSE9h5gqIp-1umNKzfl2vsWXzKXzmJ07MgB9gtVtrSR12iq8fBskPjrNhRyvFX5ON08YVhC1p2e6EC0IU9lLAc5vq2cDQu7zvl6yAgVp2mOLBM9mB5v4AWyOJ8LSzXxNNj88wv-rEY9vcaprfU4HxnN9k356xDtGFddpCRjJx_p9hgutb1PvTuKdmaSC3MoLZs7gm3uY=w1400-h788-no?authuser=0",
       "searchTags": ["planeta", "venus"],
       "features": {
         "orbitalPeriod": ["224,70 dias", "0,61 anos"],
@@ -72,7 +103,7 @@
       "name": "Terra",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/earth.svg",
+      "image": "https://lh3.googleusercontent.com/uJd7I9j1tfE5gDpwydals7x1y73tqKXE-9pxRFJt8DNgfCFTG07cECE7AbXRGxYVs5k74xwv62CTBren4i5M_8NAvFUKAAk98Mt9olak1yzArmOHdy_0CWyRhDD7Pww10ILvW54vK2Tbmdnz_215PJzOYTr-3VLPDou0AMkeFTzlyxTLncmwmfCLFv4nDtUR0qHEn2FxHQEpup5Pxuld7mhRMUuO--Aj9i1p559U4kdxnUrjiTGCYe-uucfFnGOyA32dMB1EF4WE8t-TVQLJEaDL67maJGOdNzvD-SdObWLinZzx74qMMCn8Nyt7EczDYQ4HhUT4aqxltu0QuctKE29YuT_J8T4eJEOsW73CTkEw56KzGV7psbVW_Zr-ZxGadQEDy_VnZTqMJN7f9VmfUkmfTVlEGhXgpwyPJuJ4ZHeJ1Zec2Jwoa2aaLyPat0br8onZeyjd3CdjeFvofd-5EPBYTN3u0UpFLzs_ys7JnCAbE1vqsjFvdr65s5RaW3YMj0xRDvef34o-ldgh0I4cXyzQSDNWycd2ckjmNVkuFm5Qf-Ix70B4VBGmY0SE30oj-nk6VO9_DBQvyMkvFz568aj0sdpj23WL_kPOXGzxOMNp9wtDtCZ_yM_5BkH6HsWg4y0IUONyKTlJ-wjo5YS5V85Krlba2dqhRBaU9ijNpqrRkAQiJ6AAPLCHJX9M5ykNr0fnlbT2Rtzfde4zUMycNSPFIgVKHmLUmAWAjNW8CottnIp7RM7r4vvqZYE=w1200-h800-no?authuser=0",
       "searchTags": ["planeta", "terra"],
       "features": {
         "orbitalPeriod": ["365,26 dias", "1 ano"],
@@ -91,7 +122,7 @@
       "name": "Marte",
       "resume": "Marte é o quarto planeta a partir do Sol, o segundo menor do Sistema Solar. Batizado em homenagem ao deus romano da guerra, muitas vezes é descrito como o 'Planeta Vermelho', porque o óxido de ferro predominante em sua superfície lhe dá uma aparência avermelhada.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/mars.svg",
+      "image": "https://lh3.googleusercontent.com/ge5KdnI411Vp0cdckIQHv6c6z3C_2KbxCWM_2iWfOZoHJjxsm7J8tMe8giYrZFkYCpJz4nOXs5KZ7EUAKTM0eXVc4aW40KjTWp1cVaf20eF3snoe3BXAD-gUnhPeMTkaR6wsGHLHi80cz6F_kqiK-El3RvDH3H1GIgljgboFJuPfYpss7KCGaucYNguDr3B5LRnWsgwwGc0RzF0ydSmAM2WolLRLPlrkXN9zaGHxcOF7BHu2pcItVzzANKMnH-HTifHD842V5VYFRZoAAz_41e3gh0W3l0-vY_ENcX4hSIpoXEkBzf7NLa1i-xV8dZe5rmMErjv-p4Zq-npJv7CiTSNMgqhoEYXO66Hqse3ZP1jIAw4mdoVLbPbgGVwP0xzDT_hNsPkXQz71NWWtl8tyT8FKIOUGgEIACTkJsYMj0IA09BHXhsFt1Nintnl10tZ_TinjTwc8GgKwync5NpjtyxdUOIgm7PrXAsESnXun5qljDeRXyGaqhPorIqx45e4QNuv0_2Ycbu3vw_lKQ8gzMOyNAdKyp802jjRlddtBB8JM84w3VEUnM4VqMe-QjoY_JBu2SxAGxVkAIwiH8i9CoczEEaBoO1-pocS8fopI_NZFdQORsuZUC6-eY3GCzUbJANn_pYvjahUVN0QxKLy5fBllmSgtl-gHuobatz37-INopXUpfdKUK-TZCz4yNIWGI54MTVE36UD50RGJCvRj0b6mIqBUoxMwk0rlLEpnfDr9f9mQQQZV1Xeif-I=w401-h300-no?authuser=0",
       "searchTags": ["planeta", "marte"],
       "features": {
         "orbitalPeriod": ["686,97 dias", "1,88 anos"],
@@ -110,7 +141,7 @@
       "name": "Júpiter",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/jupiter.svg",
+      "image": "https://lh3.googleusercontent.com/Tapr28S87sPqChqAgx7zCOq9RpkSVLr4GJErGpogJiodzi249J6Gun8xfNZ97fYt8Xuk7rfIA-d7qcZudWUDKHSFpjEdg99SCwMiPD1IzTwlZB6br_XWYNvdxkN33qCt_DLwgnzOuXnH8p12cGpOVr9rTqd9MFJxrydzrQSZV-ZM9VNnrLi9X5m9Pj2_UrLRjWcONqswY62DC-IcvXbeeljUKZLS7ViWGrJX_fHLrAR3Bk0UmUnALJEHEGDs-0_RfcTSrGO0SCelDMzFTworpyHyuFNwkojBYq8R1eWksLrO5IYf_olq9EC1X9wiV1Sw28p82EE5o3Y7ziqulVj5LgtOILTpeVYSXiDVBU9ielCSKdoduED2IAk77wL68rX_YFxoBsLRQ0U6JyEiiSttD29x-bE7UR4uhkQ1tRlU3yudoWosPBerYrCETLWlaV_q_j9sN37F3vImaIi-dKhndhIWf-A5k7-WkQMH5cPms9TznLioVdpaYnGqFRCAuDSuU7hJMmjRpPeHeFu5Ha5YbuNpnRI7gO_s7aeaKG70pTU59DJXQqsGNen-saZGHIC_ZpSZK8ji6v3G8dwIirnEsTrFUqclJXL8SMNZP-eR0pX16CutDQnJ0ALmgswvAuw1fCO-BBmt7sv6s1wri2TwOY8zvc2Zvg1Xt-ahQUJtAtQmXBhX35b7AXBO_YluxGuWxEP88A9f9lAAEDpUkG7XVKbcTRcE8hjUQFDmwqVpTOXHR7BRPJab08-N73M=w1024-h576-no?authuser=0",
       "searchTags": ["planeta", "jupiter", "maior planeta"],
       "features": {
         "orbitalPeriod": ["4.331,57 dias", "11,86 anos"],
@@ -132,7 +163,7 @@
       "name": "Saturno",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/saturn.svg",
+      "image": "https://lh3.googleusercontent.com/POAjDDjbe7Rkc4K_XN_HnMJtq15ior8iuLiDC1HMsLc90489cvqnUoVS3GU6Ti5yyVhAgq0ufic000BiQOkmAv02s3m6usdMWnx9ZNNnlCrcLXr1zJ3VxiWxzBLzmyVjoNKoGdWA1_HIPQrvbnXt45ST4Gu9NJpsTp5uB4XGGS4cWaYeLFNjRTQAlXOGwesiDfj-MmdmpIWw7uLl6EF4Q314L7CDahkWW_2hOXjtPU7aHWaLrS0Me9qNG06maqbJJDJszIS-tifdymh_7Or0lQUJdvBfC8AULar_vdOZpMuzGMTB3WYiaRGK1_ROTOGR1guP4yThiYS5T1NyrJPrVzWzHu34nm791UYmX-tyuBlbC6yA8KoqglNxxhaBTdoaLHn5D0QpmtDsxTthl6juzwK7o9C26K3PLaePvRKbgIVtygacvzxH6eSfF8TKWeBGKUoWrSe1FZ5JFvoCz7i8sr08n8b3lXfuFAFIut5HsRrVO9XR4K7hZKo7tzTS4JmP5T_PykDBMS5YOaPsJec9UyCKU4kNC3zY3GVEdBm7kWkGUNElQzUud-JjyOb4ItZf7Qy7Ei2cdu20PihH4EPs-oMwYvDWkTjjZci9qlsDYaM_TX-OHDUcD9_PifKjnyF-sdOdtfI1DajDAE8bYNTA53f-3MaPax_qAZbpb0rJpKrJbf4uoG8Iz7bvstXpC-Dw4C7RKSJPyJQPlQjCQjSzEIDFKRZKH7PXWG-c0r_w2JqN8cSNrzbAAw5uDYc=w667-h500-no?authuser=0",
       "searchTags": ["planeta", "saturno", "mais satelites naturais"],
       "features": {
         "orbitalPeriod": ["10.757,74 dias", "29,45 anos"],
@@ -164,7 +195,7 @@
       "name": "Urano",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/uranus.svg",
+      "image": "https://lh3.googleusercontent.com/hq5V78qoEYkVqQPSVxs0cxP-sEBwBFw6wWMvCpDaBsvxOOHfX52BJGWne2LcXiICpNxZ4knY-YPbxGHhBu-RR3wJjYvh2fbEp-qe3ieAG3mBbum4FDg7oHFr1yqzle85aRlLNsUJXPcrUipWmJ-CM_S4KsFdI_hE-4aaNsRWOViqUzbFIOyvgomdLD5QK5Mo7UzgfKbPDBlmZh01Sybtp0GxijzCxNLqtTCUqS_ITyvVu-qYZBlz5qw9B0gQ-tscx_2aJivSxQVIvRpeCa1_1jC56UzIPnzJsWHds_HdNbc-uETtA83V94rfcT173IW-8qlDtWpahZyAHUbA4CsNQ720DC6kSiAY2xOWkSighru4UfL-16Dx-m1Z091xaf-22WMlzq5lKKZK-N5yiioXfwdhftRlMaUo4Wt8Zn7XK5kwzsV4DyZNypRPrItJTLxKhXdFZXxhdgaw2Zy8MJAQfFdZ1nhTLx9A_MgtGyXkElAs-FXkyzbBEdJntJ33nDhusp_9-AKxA8ASV0Fh5xhqXjip1wZwz0pDkX67ROzvWo8c-yEksuix8JK5Skfsf8M98yk8G8QyE6xvSUUElAjFXKO-2545ALSADABi75QRhnBay5L3lo6sg4NoGzjaGa68I7N9kzVlIAiy62riwQZ1dEENaw9o660tDoXWkHYhASu-yxM1O20K5JmCJebfUZh3I8d2egOdZOoHKDd2P5paMJDk2vIHjD1FF0D5AgyFVNFaKMT7sAcEPWlg10I=w400-h300-no?authuser=0",
       "searchTags": ["planeta", "urano"],
       "features": {
         "orbitalPeriod": ["30.799,10 dias", "84,32 anos"],
@@ -186,7 +217,7 @@
       "name": "Netuno",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/neptune.svg",
+      "image": "https://lh3.googleusercontent.com/I6MFUD0KxL5N99PTMp3eaWL_YChCY-HJWvpcAZBHz0MIIqwnQS4OU-5tk8v4DlR3_QVPzKDvi_iZxYpLlqSsgWTQGPi5-ucRktGLsXqlh06NHhFIiI0iDxdqdKs-oHS9RWAm_9QSMj55LjKSrPoFAyoVGJRlCOmearn8uhRrQ26o6t568vprDjXdjJpMni385RVw3B-HjhVhOD8pD4K4tibyhHaAlYvyKwFrcZtnxl9a2sAijl9FFe4owjT3XXVJV9D-7uDrT_63jH68BV5OwVTorFcys75ZUVVcYPN8OJsMiREAdUk5E3MjLDlBf2Q9-w82Xuu1WPMj5bnNg3U5Bs5IfyY1kXHy1oKVQmUe3Y49C1a60u_c-ou9f8s-ySEyxwx_bLiDg95qufNTYHoFJ9BGDGxkpZmVHcGND1TKUCF-RCNOgRNCUXpydNTr6zhmK6fA-z75TsaURDuNjpzyvYOOJmqJUBdDmGqkBGw3hJ7BXz-HDTYaOyFYkl4RSPwoj4Z8iko-sXLV-qgLwOOVJnLZZgOF_fK0MBzthmEDUbnu9jz3Lu6V7a1rIKXGUBWt73hLyfsRW6MJ8dEbqVfYfQSOXiBL-nFz_Z8Bm0GK4cvcR_tmJq2R7jSsRgaWmZacTrxmdfSW2jSQCIzJ_L2WJ6jAGurB9UN_xClATy2IWmOm50Sikjb7OOVnZsT_5OeTyzzRcj-15BAhP7nT1orl9K59UyfHAb5vr9YeriPjhRehX2g2j_Dy5huphRM=s280-no?authuser=0",
       "searchTags": ["planeta", "netuno"],
       "features": {
         "orbitalPeriod": ["60.224,90 dias", "164,88 anos"],
@@ -216,7 +247,7 @@
       "name": "Plutão",
       "resume": "",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/pluto.svg",
+      "image": "https://lh3.googleusercontent.com/j1kKBNkPynHWHoAyalMpqOG4PomN8o7K7FLnjZsc2KnSwqnOw2Bu4MMUC2b5OURvGiOLSdlEH67SotdyMlLv4oiYnGJIQR8LvJg3P8a0mJueGArbcFhck22jGf_gHddcjgyfjq9mpgl_0NPcSbS6M4LoPvyuUOJowEoSkXbGP1a1uHT1TgnFjlDMj_Msq43YG2ox9pxGnDsYJrlUkbw8vT9l-jy16ieIzGJL8UNzPFD8kq0lCglj-wG9eM3-ccbtvxtTpJG1Ccsr9xh_N0kchKxmnXH4NWjnvD5kfV5yCfp0TrzNaGf6vjAsZmsNw7ynqa3uQT_Ug6zaPz9K-7HcjJJoe2ejSA-TevNt8c0l9MCUBku6VP4Wc0RU_0StKl724Lq24p4QZXYbJLm5Jm2VNeSnE1AmAyuQx6ZCHdfiPh_gc9vkCpPuPx5mbYWU_qOFmpvOZ4ZVkz00s9wfceIdgDNyBAnKa8dS4DKEXlfkOJ2c6rjhgKq232sHsjcalLzu4HbyQnQB3l0rLC8Ilwy_PBPCsocKtsdiyUGlUxRhlm7Mxy4DpgjU-m1TE_uADP9NodAhsGVZeUQb0yrg-yTaIiCKBIl3OXjiRmtGETMmR2s34PF-FFzMsjha7jYq2ZN1UkeSixi0OtJg_P11vKWDdVFXEju4ePkkMoZvQSktESZNNjOxvXhV8dXcHeayt8kuDqt13EiVoof4QvV20yH9rBP0VoHYhfWnXk2nL_QDOfEsAXHHFoHiA-SDzJQ=w1415-h944-no?authuser=0",
       "searchTags": ["planeta", "plutao"],
       "features": {
         "orbitalPeriod": ["90.613,31 dias", " 248,09 anos"],
