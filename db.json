@@ -49,56 +49,56 @@
       "id": "1",
       "name": "Mercúrio",
       "link": "https://solarsystem.nasa.gov/planets/mercury/overview/",
-      "image": "./planets/mercurio.png",
+      "image": "./planets/mercurio-unscreen.gif",
       "resume": "Mercúrio é o mais interno planeta do Sistema Solar. A sua órbita tem a maior excentricidade e o seu eixo apresenta a menor inclinação em relação ao plano da órbita dentre todos os outros planetas. A sua distância do sol é de 58.000.000 km e seu período de rotação é de aproximadamente 58 dias, sendo que o período orbital dura 88 dias. Além disso, sua gravidade é de 3,7m/s² e possui uma temperatura média de 166,85 ºC."
     },
     {
       "id": "2",
       "name": "Vênus",
       "link": "https://solarsystem.nasa.gov/planets/venus/overview/",
-      "image": "./planets/venus.png",
+      "image": "./planets/venus-unscreen.gif",
       "resume": "Vênus é o segundo planeta do Sistema Solar mais próximo ao Sol, com uma distância de 108.200.000 km entre eles. É o planeta anterior ao planeta Terra, podendo ser visto daqui sem o auxílio de equipamentos. O seu período de rotação dura cerca de 116 dias, sendo que o período orbital dura 225 dias. Além disso, sua gravidade é de 8,87m/s² e possui uma temperatura média de 461ºC."
     },
     {
       "id": "3",
       "name": "Terra",
       "link": "https://solarsystem.nasa.gov/planets/earth/overview/",
-      "image": "./planets/terra.png",
+      "image": "./planets/terra-unscreen.gif",
       "resume": "A Terra é o terceiro planeta mais próximo ao Sol, com uma distância de 149.600.000 km entre eles. É o mais denso e o quinto maior dos oito planetas do Sistema Solar. Também conhecido como Planeta Azul, a duração dos dias na Terra é de 23 horas e 56 minutos, sendo que o período orbital dura 365 dias. Além disso, sua gravidade é de 9,807m/s² e possui uma temperatura média de 15°C"
     },
     {
       "id": "4",
       "name": "Marte",
       "link": "https://solarsystem.nasa.gov/planets/mars/overview/",
-      "image": "./planets/marte.png",
+      "image": "./planets/marte-unscreen.gif",
       "resume": "Marte é o quarto planeta mais próximo ao Sol, com uma distância de 227.940.000 km entre eles. É o segundo menor planeta do Sistema Solar. Muitas vezes é descrito como o Planeta Vermelho, pois o óxido de ferro predominante em sua superfície lhe dá uma aparência avermelhada. Seu período de rotação é de, aproximadamente, 1 dia e 37 minutos, sendo que o seu período orbital dura 687 dias. Além disso, a sua gravidade é de 3,721 m/s² e sua temperatura média varia entre -125°C no inverno Marciano e 22°C no verão Marciano."
     },
     {
       "id": "5",
       "name": "Júpiter",
       "link": "https://solarsystem.nasa.gov/planets/jupiter/overview/",
-      "image": "./planets/jupiter.png",
+      "image": "./planets/jupiter-unscreen.gif",
       "resume": "Júpiter é o quinto planeta mais próximo ao Sol, com uma distância de 778.330.000 km entre eles. É um planeta gasoso e o maior do Sistema Solar, tanto em diâmetro quanto em massa. Seu período de rotação é de 9 horas e 56 minutos, sendo que o seu período orbital dura 12 anos. Além disso, sua gravidade é de 24,79 m/s² e possui uma temperatura média de -110°C."
     },
     {
       "id": "6",
       "name": "Saturno",
       "link": "https://solarsystem.nasa.gov/planets/saturn/overview/",
-      "image": "./planets/saturno.png",
+      "image": "./planets/saturno-unscreen.gif",
       "resume": "Saturno é o sexto planeta a partir do Sol, com uma distância de 1,434 × 10^9 km entre eles. É o segundo maior planeta do sistema solar com um tamanho 9 vezes maior que o do planeta Terra. É formado principalmente por gases e dispõe de 7 conjuntos de anéis circundantes e 82 luas, sendo Titã a maior e mais conhecida delas. Seu período de rotação é de 10 horas e 34 minutos e o seu período orbital dura 29 anos. Além disso, sua gravidade é de 10,44 m/s² e possui uma temperatura média de -138°C."
     },
     {
       "id": "7",
       "name": "Urano",
       "link": "https://solarsystem.nasa.gov/planets/uranus/overview/",
-      "image": "./planets/urano.png",
+      "image": "./planets/urano-unscreen.gif",
       "resume": "Urano é um planeta gasoso localizado na sétima posição em relação ao Sol, com uma distância de 2,871 × 10^9 entre eles. É o terceiro maior planeta do Sistema Solar e sua massa é formada por gases, principalmente hidrogênio e hélio. Seu período de rotação dura 17 horas e 14 minutos, sendo seu período orbital de 84 anos. Além disso, a sua gravidade é de 8,87 m/s² e possui uma temperatura média de -195°C."
     },
     {
       "id": "8",
       "name": "Netuno",
       "link": "https://solarsystem.nasa.gov/planets/neptune/overview/",
-      "image": "./planets/netuno.png",
+      "image": "./planets/netuno-unscreen.gif",
       "resume": "Netuno é o oitavo planeta a partir do Sol, com uma distância de 4,5 bilhões de km entre eles. É um gigante gasoso, bem como Júpiter, Saturno e Urano. Seu período de rotação é de 16 horas e 6 minutos, sendo o seu período orbital de 165 anos. Além disso, sua gravidade é de 11,15 m/s² e sua temperatura média é de -245°C."
     }
   ]
