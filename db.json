@@ -42,7 +42,7 @@
       "id": "0",
       "name": "Sol",
       "link": "https://solarsystem.nasa.gov/solar-system/sun/overview/",
-      "image": "./planets/sol-unscreen.gif",
+      "image": "./planets/sol.png",
       "resume": "O sol é a estrela central do Sistema Solar, ou seja, todos os outros corpos do nosso sistema giram ao seu redor. Sua temperatura é variada, podendo atingir até 5.505 graus Celsius na superfície e extraordinários 16 milhões de graus Celsius no núcleo. Uma viagem da Terra com destino ao Sol, em uma espaçonave, levaria cerca de 124 dias."
     },
     {
