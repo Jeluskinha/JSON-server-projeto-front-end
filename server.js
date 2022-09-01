@@ -7,7 +7,8 @@ const router = jsonServer.router("db.json");
 app.db = router.db;
 const rules = auth.rewriter({
   users: 664,
-  planets: 664
+  planets: 664,
+  postes: 664
 });
 app.use(cors());
 app.use(rules);

@@ -3,38 +3,51 @@
     {
       "email": "jean@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "image": "https://s2.glbimg.com/q1ZgqfWQGKQyxtRoMoRK03gMVfk=/0x0:959x540/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/h/J/Ui4XL0So6yEilj6DeGXg/memedoge.jpg",
       "nickName": "Jeluskinha",
       "id": "1"
     },
     {
       "email": "bruna.dall@hotmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "image": "https://pbs.twimg.com/media/EXNwfE_WoAMarG5.jpg",
       "nickName": "Dalla",
       "id": "2"
     },
     {
       "email": "bryannarlok@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
       "nickName": "Bryan",
       "id": "3"
     },
     {
       "email": "larissa.stch@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
       "nickName": "larissa.stch",
       "id": "4"
     },
     {
       "email": "sarahvenske@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
       "nickName": "sarahv",
       "id": "5"
     },
     {
       "email": "nathyalbanski31@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
       "nickName": "astronathy",
       "id": "6"
+    },
+    {
+      "email": "fabio@kenzie.com",
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "nickName": "FabimPirigoso",
+      "image": "https://i.imgur.com/ZCKn6l7.jpg?1",
+      "id": "7"
     }
   ],
   "planets": [
@@ -100,6 +113,39 @@
       "link": "https://solarsystem.nasa.gov/planets/neptune/overview/",
       "image": "./planets/netuno-unscreen.gif",
       "resume": "Netuno é o oitavo planeta a partir do Sol, com uma distância de 4,5 bilhões de km entre eles. É um gigante gasoso, bem como Júpiter, Saturno e Urano. Seu período de rotação é de 16 horas e 6 minutos, sendo o seu período orbital de 165 anos. Além disso, sua gravidade é de 11,15 m/s² e sua temperatura média é de -245°C."
+    }
+  ],
+  "posts":[
+    {
+      "id":"1",
+      "user":{
+        "user_id": "1",
+        "user_nickName": "Jeluskinha",
+        "user_image": "https://s2.glbimg.com/q1ZgqfWQGKQyxtRoMoRK03gMVfk=/0x0:959x540/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/h/J/Ui4XL0So6yEilj6DeGXg/memedoge.jpg",
+        "user_type": "aluno"},
+      "tittle": "Olá",
+      "resume": "Meu nome é Jeluksinha"
+    },
+    {
+      
+      "id":"2",
+      "user":{
+        "user_id": "2",
+        "user_nickName": "Dalla",
+        "user_image": "https://pbs.twimg.com/media/EXNwfE_WoAMarG5.jpg",
+        "user_type": "aluno"},
+      "tittle": "obtuário",
+      "resume": "Se esse trabalho foi concluido, é porque eu morri"
+    },
+    {
+      "id":"3",
+      "user":{
+        "user_id": "3",
+        "user_nickName": "Bryan",
+        "user_image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
+        "user_type": "entusiasta"},
+      "tittle": ":)",
+      "resume": "droga é o Braya"
     }
   ]
 }
