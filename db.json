@@ -157,36 +157,5 @@
     }
   ],
   "posts":[
-    {
-      "id":"1",
-      "user":{
-        "user_id": "1",
-        "user_nickName": "Jeluskinha",
-        "user_image": "https://s2.glbimg.com/q1ZgqfWQGKQyxtRoMoRK03gMVfk=/0x0:959x540/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/h/J/Ui4XL0So6yEilj6DeGXg/memedoge.jpg",
-        "user_type": "aluno"},
-      "tittle": "Olá",
-      "resume": "Meu nome é Jeluksinha"
-    },
-    {
-      
-      "id":"2",
-      "user":{
-        "user_id": "2",
-        "user_nickName": "Dalla",
-        "user_image": "https://pbs.twimg.com/media/EXNwfE_WoAMarG5.jpg",
-        "user_type": "aluno"},
-      "tittle": "obtuário",
-      "resume": "Se esse trabalho foi concluido, é porque eu morri"
-    },
-    {
-      "id":"3",
-      "user":{
-        "user_id": "3",
-        "user_nickName": "Bryan",
-        "user_image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
-        "user_type": "aluno"},
-      "tittle": ":)",
-      "resume": "droga é o Braya"
-    }
   ]
 }
