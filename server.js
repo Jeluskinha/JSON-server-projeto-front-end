@@ -6,7 +6,7 @@ const app = jsonServer.create();
 const router = jsonServer.router("db.json");
 app.db = router.db;
 const rules = auth.rewriter({
-  users: 664,
+  users: 640,
   planets: 664,
   posts: 640
 });
