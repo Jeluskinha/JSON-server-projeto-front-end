@@ -6,7 +6,17 @@
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
       "image": "https://s2.glbimg.com/q1ZgqfWQGKQyxtRoMoRK03gMVfk=/0x0:959x540/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/h/J/Ui4XL0So6yEilj6DeGXg/memedoge.jpg",
-      "id": "1"
+      "id": "1",
+      "posts":[ {
+        "id":"1",
+        "user":{
+          "user_id": "1",
+          "user_nickName": "Jeluskinha",
+          "user_image": "https://s2.glbimg.com/q1ZgqfWQGKQyxtRoMoRK03gMVfk=/0x0:959x540/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/h/J/Ui4XL0So6yEilj6DeGXg/memedoge.jpg",
+          "user_type": "aluno"},
+        "tittle": "Olá",
+        "resume": "Meu nome é Jeluksinha"
+      }]
     },
     {
       "nickName": "Dalla",
@@ -14,7 +24,17 @@
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
       "image": "https://pbs.twimg.com/media/EXNwfE_WoAMarG5.jpg",
-      "id": "2"
+      "id": "2",
+      "posts":[{
+        "id":"2",
+        "user":{
+          "user_id": "2",
+          "user_nickName": "Dalla",
+          "user_image": "https://pbs.twimg.com/media/EXNwfE_WoAMarG5.jpg",
+          "user_type": "aluno"},
+        "tittle": "obtuário",
+        "resume": "Se esse trabalho foi concluido, é porque eu morri"
+      }]
     },
     {
       "nickName": "Bryan",
@@ -22,7 +42,17 @@
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
       "image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
-      "id": "3"
+      "id": "3",
+      "posts":[{
+        "id":"3",
+        "user":{
+          "user_id": "3",
+          "user_nickName": "Bryan",
+          "user_image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
+          "user_type": "aluno"},
+        "tittle": ":)",
+        "resume": "droga é o Braya"
+      }]
     },
     {
       "nickName": "larissa.stch",
@@ -30,7 +60,8 @@
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
       "image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
-      "id": "4"
+      "id": "4",
+      "posts":[]
     },
     {
       "nickName": "sarahv",
@@ -38,7 +69,8 @@
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
       "image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
-      "id": "5"
+      "id": "5",
+      "posts":[]
     },
     {
       "nickName": "astronathy",
@@ -46,7 +78,8 @@
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
       "image": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
-      "id": "6"
+      "id": "6",
+      "posts":[]
     },
     {
       "nickName": "FabimPirigoso",
@@ -54,7 +87,8 @@
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
       "image": "https://i.imgur.com/ZCKn6l7.jpg?1",
-      "id": "7"
+      "id": "7",
+      "posts":[]
     }
   ],
   "planets": [
