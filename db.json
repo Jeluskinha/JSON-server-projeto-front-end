@@ -154,13 +154,6 @@
       "link": "https://solarsystem.nasa.gov/planets/neptune/overview/",
       "image": "./planets/netuno-unscreen.gif",
       "resume": "Netuno é o oitavo planeta a partir do Sol, com uma distância de 4,5 bilhões de km entre eles. É um gigante gasoso, bem como Júpiter, Saturno e Urano. Seu período de rotação é de 16 horas e 6 minutos, sendo o seu período orbital de 165 anos. Além disso, sua gravidade é de 11,15 m/s² e sua temperatura média é de -245°C."
-    },
-    {
-      "id": "8",
-      "name": "Gabi",
-      "link": "",
-      "image": "./planets/EasterEgg.jpg",
-      "resume": ""
     }
   ],
   "posts":[
