@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "nickName": "Jeluskinha",
+      "nickname": "Jeluskinha",
       "email": "jean@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
@@ -19,7 +19,7 @@
       }]
     },
     {
-      "nickName": "Dalla",
+      "nickname": "Dalla",
       "email": "bruna.dall@hotmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
@@ -37,7 +37,7 @@
       }]
     },
     {
-      "nickName": "Bryan",
+      "nickname": "Bryan",
       "email": "bryannarlok@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
@@ -55,7 +55,7 @@
       }]
     },
     {
-      "nickName": "larissa.stch",
+      "nickname": "larissa.stch",
       "email": "larissa.stch@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
@@ -64,7 +64,7 @@
       "posts":[]
     },
     {
-      "nickName": "sarahv",
+      "nickname": "sarahv",
       "email": "sarahvenske@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
@@ -73,7 +73,7 @@
       "posts":[]
     },
     {
-      "nickName": "astronathy",
+      "nickname": "astronathy",
       "email": "nathyalbanski31@gmail.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
@@ -82,7 +82,7 @@
       "posts":[]
     },
     {
-      "nickName": "FabimPirigoso",
+      "nickname": "FabimPirigoso",
       "email": "fabio@kenzie.com",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "type":"aluno",
